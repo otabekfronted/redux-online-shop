@@ -1,0 +1,803 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "price": 299.99,
+            "category": "Electronics",
+            "description": "A high-quality smartphone with a sleek design and powerful features.",
+            "imageURL": "https://picsum.photos/350/350?random=1"
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "price": 999.99,
+            "category": "Electronics",
+            "description": "A fast and reliable laptop suitable for work and play.",
+            "imageURL": "https://picsum.photos/350/350?random=2"
+        },
+        {
+            "id": 3,
+            "name": "Headphones",
+            "price": 149.99,
+            "category": "Accessories",
+            "description": "Noise-cancelling headphones with superior sound quality.",
+            "imageURL": "https://picsum.photos/350/350?random=3"
+        },
+        {
+            "id": 4,
+            "name": "Smartwatch",
+            "price": 199.99,
+            "category": "Accessories",
+            "description": "A stylish smartwatch with health tracking and notifications.",
+            "imageURL": "https://picsum.photos/350/350?random=4"
+        },
+        {
+            "id": 5,
+            "name": "Tablet",
+            "price": 499.99,
+            "category": "Electronics",
+            "description": "A versatile tablet with a high-resolution display and powerful processor.",
+            "imageURL": "https://picsum.photos/350/350?random=5"
+        },
+        {
+            "id": 6,
+            "name": "Bluetooth Speaker",
+            "price": 89.99,
+            "category": "Accessories",
+            "description": "A portable Bluetooth speaker with excellent sound quality.",
+            "imageURL": "https://picsum.photos/350/350?random=6"
+        },
+        {
+            "id": 7,
+            "name": "Camera",
+            "price": 649.99,
+            "category": "Electronics",
+            "description": "A digital camera with high resolution and multiple shooting modes.",
+            "imageURL": "https://picsum.photos/350/350?random=7"
+        },
+        {
+            "id": 8,
+            "name": "Drone",
+            "price": 799.99,
+            "category": "Electronics",
+            "description": "A high-performance drone with HD camera and long battery life.",
+            "imageURL": "https://picsum.photos/350/350?random=8"
+        },
+        {
+            "id": 9,
+            "name": "Smart Home Hub",
+            "price": 129.99,
+            "category": "Home",
+            "description": "A smart home hub to control all your smart devices.",
+            "imageURL": "https://picsum.photos/350/350?random=9"
+        },
+        {
+            "id": 10,
+            "name": "Electric Kettle",
+            "price": 39.99,
+            "category": "Kitchen",
+            "description": "An electric kettle with fast boiling and automatic shutoff.",
+            "imageURL": "https://picsum.photos/350/350?random=10"
+        },
+        {
+            "id": 11,
+            "name": "Air Purifier",
+            "price": 199.99,
+            "category": "Home",
+            "description": "An air purifier with HEPA filter and multiple fan speeds.",
+            "imageURL": "https://picsum.photos/350/350?random=11"
+        },
+        {
+            "id": 12,
+            "name": "Vacuum Cleaner",
+            "price": 299.99,
+            "category": "Home",
+            "description": "A powerful vacuum cleaner with multiple attachments and high suction.",
+            "imageURL": "https://picsum.photos/350/350?random=12"
+        },
+        {
+            "id": 13,
+            "name": "Blender",
+            "price": 89.99,
+            "category": "Kitchen",
+            "description": "A versatile blender with multiple speed settings and durable blades.",
+            "imageURL": "https://picsum.photos/350/350?random=13"
+        },
+        {
+            "id": 14,
+            "name": "Coffee Maker",
+            "price": 79.99,
+            "category": "Kitchen",
+            "description": "A programmable coffee maker with a large capacity and easy-to-use controls.",
+            "imageURL": "https://picsum.photos/350/350?random=14"
+        },
+        {
+            "id": 15,
+            "name": "Toaster",
+            "price": 49.99,
+            "category": "Kitchen",
+            "description": "A compact toaster with adjustable settings and extra-wide slots.",
+            "imageURL": "https://picsum.photos/350/350?random=15"
+        },
+        {
+            "id": 16,
+            "name": "Microwave Oven",
+            "price": 139.99,
+            "category": "Kitchen",
+            "description": "A microwave oven with multiple power levels and defrost functions.",
+            "imageURL": "https://picsum.photos/350/350?random=16"
+        },
+        {
+            "id": 17,
+            "name": "Refrigerator",
+            "price": 1199.99,
+            "category": "Appliances",
+            "description": "A spacious refrigerator with energy-efficient cooling and a sleek design.",
+            "imageURL": "https://picsum.photos/350/350?random=17"
+        },
+        {
+            "id": 18,
+            "name": "Washing Machine",
+            "price": 699.99,
+            "category": "Appliances",
+            "description": "A front-loading washing machine with various wash cycles and energy efficiency.",
+            "imageURL": "https://picsum.photos/350/350?random=18"
+        },
+        {
+            "id": 19,
+            "name": "Dishwasher",
+            "price": 799.99,
+            "category": "Appliances",
+            "description": "A quiet dishwasher with multiple wash settings and high cleaning performance.",
+            "imageURL": "https://picsum.photos/350/350?random=19"
+        },
+        {
+            "id": 20,
+            "name": "Oven",
+            "price": 899.99,
+            "category": "Appliances",
+            "description": "A versatile oven with convection cooking and easy-to-clean surfaces.",
+            "imageURL": "https://picsum.photos/350/350?random=20"
+        },
+        {
+            "id": 21,
+            "name": "Electric Grill",
+            "price": 149.99,
+            "category": "Appliances",
+            "description": "An electric grill with adjustable temperature and non-stick surface.",
+            "imageURL": "https://picsum.photos/350/350?random=21"
+        },
+        {
+            "id": 22,
+            "name": "Slow Cooker",
+            "price": 79.99,
+            "category": "Kitchen",
+            "description": "A programmable slow cooker with various cooking modes and easy cleanup.",
+            "imageURL": "https://picsum.photos/350/350?random=22"
+        },
+        {
+            "id": 23,
+            "name": "Rice Cooker",
+            "price": 59.99,
+            "category": "Kitchen",
+            "description": "A rice cooker with automatic keep-warm function and easy-to-use controls.",
+            "imageURL": "https://picsum.photos/350/350?random=23"
+        },
+        {
+            "id": 24,
+            "name": "Electric Knife",
+            "price": 69.99,
+            "category": "Kitchen",
+            "description": "An electric knife with multiple blade options and comfortable grip.",
+            "imageURL": "https://picsum.photos/350/350?random=24"
+        },
+        {
+            "id": 25,
+            "name": "Stand Mixer",
+            "price": 299.99,
+            "category": "Kitchen",
+            "description": "A powerful stand mixer with multiple attachments and variable speed settings.",
+            "imageURL": "https://picsum.photos/350/350?random=25"
+        },
+        {
+            "id": 26,
+            "name": "Electric Toothbrush",
+            "price": 89.99,
+            "category": "Personal Care",
+            "description": "An electric toothbrush with various brushing modes and a timer.",
+            "imageURL": "https://picsum.photos/350/350?random=26"
+        },
+        {
+            "id": 27,
+            "name": "Hair Dryer",
+            "price": 49.99,
+            "category": "Personal Care",
+            "description": "A high-speed hair dryer with multiple heat and speed settings.",
+            "imageURL": "https://picsum.photos/350/350?random=27"
+        },
+        {
+            "id": 28,
+            "name": "Shaving Kit",
+            "price": 39.99,
+            "category": "Personal Care",
+            "description": "A complete shaving kit with razor, shaving cream, and aftershave.",
+            "imageURL": "https://picsum.photos/350/350?random=28"
+        },
+        {
+            "id": 29,
+            "name": "Electric Shaver",
+            "price": 99.99,
+            "category": "Personal Care",
+            "description": "An electric shaver with multiple grooming settings and precision blades.",
+            "imageURL": "https://picsum.photos/350/350?random=29"
+        },
+        {
+            "id": 30,
+            "name": "Hair Straightener",
+            "price": 59.99,
+            "category": "Personal Care",
+            "description": "A hair straightener with adjustable temperature settings and ceramic plates.",
+            "imageURL": "https://picsum.photos/350/350?random=30"
+        },
+        {
+            "id": 31,
+            "name": "Electric Blanket",
+            "price": 89.99,
+            "category": "Home",
+            "description": "A cozy electric blanket with adjustable heat settings and soft material.",
+            "imageURL": "https://picsum.photos/350/350?random=31"
+        },
+        {
+            "id": 32,
+            "name": "Air Purifier",
+            "price": 199.99,
+            "category": "Home",
+            "description": "An air purifier with HEPA filter and multiple fan speeds.",
+            "imageURL": "https://picsum.photos/350/350?random=32"
+        },
+        {
+            "id": 33,
+            "name": "Dehumidifier",
+            "price": 129.99,
+            "category": "Home",
+            "description": "A dehumidifier with adjustable humidity settings and large water tank.",
+            "imageURL": "https://picsum.photos/350/350?random=33"
+        },
+        {
+            "id": 34,
+            "name": "Fan",
+            "price": 59.99,
+            "category": "Home",
+            "description": "A powerful fan with adjustable speed and oscillation features.",
+            "imageURL": "https://picsum.photos/350/350?random=34"
+        },
+        {
+            "id": 35,
+            "name": "Heater",
+            "price": 79.99,
+            "category": "Home",
+            "description": "A compact heater with adjustable temperature settings and safety features.",
+            "imageURL": "https://picsum.photos/350/350?random=35"
+        },
+        {
+            "id": 36,
+            "name": "Lamp",
+            "price": 49.99,
+            "category": "Home",
+            "description": "A stylish lamp with adjustable brightness and modern design.",
+            "imageURL": "https://picsum.photos/350/350?random=36"
+        },
+        {
+            "id": 37,
+            "name": "Table",
+            "price": 199.99,
+            "category": "Furniture",
+            "description": "A sturdy table with a contemporary design and ample surface area.",
+            "imageURL": "https://picsum.photos/350/350?random=37"
+        },
+        {
+            "id": 38,
+            "name": "Chair",
+            "price": 89.99,
+            "category": "Furniture",
+            "description": "A comfortable chair with ergonomic design and adjustable features.",
+            "imageURL": "https://picsum.photos/350/350?random=38"
+        },
+        {
+            "id": 39,
+            "name": "Sofa",
+            "price": 699.99,
+            "category": "Furniture",
+            "description": "A luxurious sofa with plush cushions and durable fabric.",
+            "imageURL": "https://picsum.photos/350/350?random=39"
+        },
+        {
+            "id": 40,
+            "name": "Bed",
+            "price": 499.99,
+            "category": "Furniture",
+            "description": "A spacious bed with a solid frame and comfortable mattress.",
+            "imageURL": "https://picsum.photos/350/350?random=40"
+        },
+        {
+            "id": 41,
+            "name": "Wardrobe",
+            "price": 399.99,
+            "category": "Furniture",
+            "description": "A spacious wardrobe with multiple compartments and a modern design.",
+            "imageURL": "https://picsum.photos/350/350?random=41"
+        },
+        {
+            "id": 42,
+            "name": "Desk",
+            "price": 129.99,
+            "category": "Furniture",
+            "description": "A functional desk with ample workspace and organizational features.",
+            "imageURL": "https://picsum.photos/350/350?random=42"
+        },
+        {
+            "id": 43,
+            "name": "Bookcase",
+            "price": 159.99,
+            "category": "Furniture",
+            "description": "A stylish bookcase with adjustable shelves and sturdy construction.",
+            "imageURL": "https://picsum.photos/350/350?random=43"
+        },
+        {
+            "id": 44,
+            "name": "Nightstand",
+            "price": 69.99,
+            "category": "Furniture",
+            "description": "A compact nightstand with drawer and shelf for bedside storage.",
+            "imageURL": "https://picsum.photos/350/350?random=44"
+        },
+        {
+            "id": 45,
+            "name": "Coffee Table",
+            "price": 149.99,
+            "category": "Furniture",
+            "description": "A sleek coffee table with a glass top and minimalist design.",
+            "imageURL": "https://picsum.photos/350/350?random=45"
+        },
+        {
+            "id": 46,
+            "name": "Dining Table",
+            "price": 299.99,
+            "category": "Furniture",
+            "description": "A stylish dining table with seating for four and elegant design.",
+            "imageURL": "https://picsum.photos/350/350?random=46"
+        },
+        {
+            "id": 47,
+            "name": "Outdoor Grill",
+            "price": 349.99,
+            "category": "Outdoor",
+            "description": "A large outdoor grill with multiple burners and ample cooking space.",
+            "imageURL": "https://picsum.photos/350/350?random=47"
+        },
+        {
+            "id": 48,
+            "name": "Patio Heater",
+            "price": 199.99,
+            "category": "Outdoor",
+            "description": "A patio heater with adjustable heat settings and sturdy base.",
+            "imageURL": "https://picsum.photos/350/350?random=48"
+        },
+        {
+            "id": 49,
+            "name": "Garden Furniture Set",
+            "price": 499.99,
+            "category": "Outdoor",
+            "description": "A complete garden furniture set with chairs, table, and cushions.",
+            "imageURL": "https://picsum.photos/350/350?random=49"
+        },
+        {
+            "id": 50,
+            "name": "Swing Chair",
+            "price": 149.99,
+            "category": "Outdoor",
+            "description": "A comfortable swing chair with weather-resistant material and sturdy frame.",
+            "imageURL": "https://picsum.photos/350/350?random=50"
+        },
+        {
+            "id": 51,
+            "name": "Bicycle",
+            "price": 299.99,
+            "category": "Sports",
+            "description": "A high-quality bicycle with durable frame and smooth gears.",
+            "imageURL": "https://picsum.photos/350/350?random=51"
+        },
+        {
+            "id": 52,
+            "name": "Treadmill",
+            "price": 899.99,
+            "category": "Sports",
+            "description": "A treadmill with various speed settings and built-in workout programs.",
+            "imageURL": "https://picsum.photos/350/350?random=52"
+        },
+        {
+            "id": 53,
+            "name": "Dumbbells",
+            "price": 69.99,
+            "category": "Sports",
+            "description": "A set of dumbbells with adjustable weights for versatile workouts.",
+            "imageURL": "https://picsum.photos/350/350?random=53"
+        },
+        {
+            "id": 54,
+            "name": "Yoga Mat",
+            "price": 29.99,
+            "category": "Sports",
+            "description": "A high-density yoga mat with non-slip surface and extra cushioning.",
+            "imageURL": "https://picsum.photos/350/350?random=54"
+        },
+        {
+            "id": 55,
+            "name": "Boxing Gloves",
+            "price": 49.99,
+            "category": "Sports",
+            "description": "Durable boxing gloves with padded knuckles and adjustable wrist straps.",
+            "imageURL": "https://picsum.photos/350/350?random=55"
+        },
+        {
+            "id": 56,
+            "name": "Golf Club Set",
+            "price": 499.99,
+            "category": "Sports",
+            "description": "A complete golf club set with various clubs and a durable bag.",
+            "imageURL": "https://picsum.photos/350/350?random=56"
+        },
+        {
+            "id": 57,
+            "name": "Camping Tent",
+            "price": 159.99,
+            "category": "Outdoor",
+            "description": "A spacious camping tent with weather-resistant fabric and easy setup.",
+            "imageURL": "https://picsum.photos/350/350?random=57"
+        },
+        {
+            "id": 58,
+            "name": "Sleeping Bag",
+            "price": 89.99,
+            "category": "Outdoor",
+            "description": "A warm sleeping bag with compression sack and multiple size options.",
+            "imageURL": "https://picsum.photos/350/350?random=58"
+        },
+        {
+            "id": 59,
+            "name": "Hiking Backpack",
+            "price": 129.99,
+            "category": "Outdoor",
+            "description": "A durable hiking backpack with multiple compartments and ergonomic design.",
+            "imageURL": "https://picsum.photos/350/350?random=59"
+        },
+        {
+            "id": 60,
+            "name": "Portable Grill",
+            "price": 79.99,
+            "category": "Outdoor",
+            "description": "A compact and portable grill with easy-to-clean surface and carry handle.",
+            "imageURL": "https://picsum.photos/350/350?random=60"
+        },
+        {
+            "id": 61,
+            "name": "Handheld Vacuum",
+            "price": 89.99,
+            "category": "Appliances",
+            "description": "A handheld vacuum with powerful suction and easy-to-empty dustbin.",
+            "imageURL": "https://picsum.photos/350/350?random=61"
+        },
+        {
+            "id": 62,
+            "name": "Electric Screwdriver",
+            "price": 49.99,
+            "category": "Tools",
+            "description": "An electric screwdriver with multiple bits and adjustable speed settings.",
+            "imageURL": "https://picsum.photos/350/350?random=62"
+        },
+        {
+            "id": 63,
+            "name": "Cordless Drill",
+            "price": 129.99,
+            "category": "Tools",
+            "description": "A versatile cordless drill with high torque and variable speed control.",
+            "imageURL": "https://picsum.photos/350/350?random=63"
+        },
+        {
+            "id": 64,
+            "name": "Circular Saw",
+            "price": 149.99,
+            "category": "Tools",
+            "description": "A circular saw with precision cutting and safety features.",
+            "imageURL": "https://picsum.photos/350/350?random=64"
+        },
+        {
+            "id": 65,
+            "name": "Tool Set",
+            "price": 99.99,
+            "category": "Tools",
+            "description": "A comprehensive tool set with various hand tools and storage case.",
+            "imageURL": "https://picsum.photos/350/350?random=65"
+        },
+        {
+            "id": 66,
+            "name": "Lawn Mower",
+            "price": 299.99,
+            "category": "Outdoor",
+            "description": "A powerful lawn mower with adjustable cutting height and easy-start engine.",
+            "imageURL": "https://picsum.photos/350/350?random=66"
+        },
+        {
+            "id": 67,
+            "name": "Snow Blower",
+            "price": 399.99,
+            "category": "Outdoor",
+            "description": "A heavy-duty snow blower with multiple speed settings and electric start.",
+            "imageURL": "https://picsum.photos/350/350?random=67"
+        },
+        {
+            "id": 68,
+            "name": "Pressure Washer",
+            "price": 229.99,
+            "category": "Outdoor",
+            "description": "A high-pressure washer with adjustable spray nozzle and powerful motor.",
+            "imageURL": "https://picsum.photos/350/350?random=68"
+        },
+        {
+            "id": 69,
+            "name": "Garden Hose",
+            "price": 39.99,
+            "category": "Outdoor",
+            "description": "A durable garden hose with adjustable nozzle and kink-resistant design.",
+            "imageURL": "https://picsum.photos/350/350?random=69"
+        },
+        {
+            "id": 70,
+            "name": "Bird Feeder",
+            "price": 29.99,
+            "category": "Outdoor",
+            "description": "A decorative bird feeder with easy-to-fill design and weather-resistant materials.",
+            "imageURL": "https://picsum.photos/350/350?random=70"
+        },
+        {
+            "id": 71,
+            "name": "Wind Chime",
+            "price": 24.99,
+            "category": "Outdoor",
+            "description": "A soothing wind chime with high-quality tones and decorative elements.",
+            "imageURL": "https://picsum.photos/350/350?random=71"
+        },
+        {
+            "id": 72,
+            "name": "Garden Tiller",
+            "price": 299.99,
+            "category": "Outdoor",
+            "description": "A powerful garden tiller with adjustable tilling depth and comfortable handles.",
+            "imageURL": "https://picsum.photos/350/350?random=72"
+        },
+        {
+            "id": 73,
+            "name": "Compost Bin",
+            "price": 89.99,
+            "category": "Outdoor",
+            "description": "A compost bin with easy-access lid and sturdy construction.",
+            "imageURL": "https://picsum.photos/350/350?random=73"
+        },
+        {
+            "id": 74,
+            "name": "Barbecue Tool Set",
+            "price": 49.99,
+            "category": "Outdoor",
+            "description": "A complete barbecue tool set with spatula, tongs, and basting brush.",
+            "imageURL": "https://picsum.photos/350/350?random=74"
+        },
+        {
+            "id": 75,
+            "name": "Fishing Rod",
+            "price": 89.99,
+            "category": "Outdoor",
+            "description": "A high-quality fishing rod with adjustable reel and comfortable grip.",
+            "imageURL": "https://picsum.photos/350/350?random=75"
+        },
+        {
+            "id": 76,
+            "name": "Hammock",
+            "price": 59.99,
+            "category": "Outdoor",
+            "description": "A relaxing hammock with durable fabric and easy-to-hang design.",
+            "imageURL": "https://picsum.photos/350/350?random=76"
+        },
+        {
+            "id": 77,
+            "name": "BBQ Grill",
+            "price": 299.99,
+            "category": "Outdoor",
+            "description": "A large BBQ grill with multiple burners and easy-to-clean grates.",
+            "imageURL": "https://picsum.photos/350/350?random=77"
+        },
+        {
+            "id": 78,
+            "name": "Camping Lantern",
+            "price": 29.99,
+            "category": "Outdoor",
+            "description": "A bright camping lantern with adjustable brightness and long battery life.",
+            "imageURL": "https://picsum.photos/350/350?random=78"
+        },
+        {
+            "id": 79,
+            "name": "Camping Stove",
+            "price": 69.99,
+            "category": "Outdoor",
+            "description": "A compact camping stove with multiple burners and wind shield.",
+            "imageURL": "https://picsum.photos/350/350?random=79"
+        },
+        {
+            "id": 80,
+            "name": "Fishing Net",
+            "price": 39.99,
+            "category": "Outdoor",
+            "description": "A sturdy fishing net with large mesh and comfortable handle.",
+            "imageURL": "https://picsum.photos/350/350?random=80"
+        },
+        {
+            "id": 81,
+            "name": "Kayak",
+            "price": 499.99,
+            "category": "Outdoor",
+            "description": "A lightweight kayak with adjustable seat and storage compartments.",
+            "imageURL": "https://picsum.photos/350/350?random=81"
+        },
+        {
+            "id": 82,
+            "name": "Stand Up Paddleboard",
+            "price": 399.99,
+            "category": "Outdoor",
+            "description": "A durable paddleboard with non-slip surface and adjustable paddle.",
+            "imageURL": "https://picsum.photos/350/350?random=82"
+        },
+        {
+            "id": 83,
+            "name": "Golf Cart",
+            "price": 2999.99,
+            "category": "Sports",
+            "description": "An electric golf cart with comfortable seating and storage options.",
+            "imageURL": "https://picsum.photos/350/350?random=83"
+        },
+        {
+            "id": 84,
+            "name": "Billiard Table",
+            "price": 799.99,
+            "category": "Sports",
+            "description": "A professional billiard table with high-quality felt and durable construction.",
+            "imageURL": "https://picsum.photos/350/350?random=84"
+        },
+        {
+            "id": 85,
+            "name": "Table Tennis Table",
+            "price": 499.99,
+            "category": "Sports",
+            "description": "A regulation-sized table tennis table with net and post set.",
+            "imageURL": "https://picsum.photos/350/350?random=85"
+        },
+        {
+            "id": 86,
+            "name": "Tennis Racket",
+            "price": 89.99,
+            "category": "Sports",
+            "description": "A high-performance tennis racket with ergonomic grip and durable strings.",
+            "imageURL": "https://picsum.photos/350/350?random=86"
+        },
+        {
+            "id": 87,
+            "name": "Soccer Ball",
+            "price": 29.99,
+            "category": "Sports",
+            "description": "A durable soccer ball with vibrant colors and excellent bounce.",
+            "imageURL": "https://picsum.photos/350/350?random=87"
+        },
+        {
+            "id": 88,
+            "name": "Basketball",
+            "price": 34.99,
+            "category": "Sports",
+            "description": "A high-quality basketball with textured grip and consistent bounce.",
+            "imageURL": "https://picsum.photos/350/350?random=88"
+        },
+        {
+            "id": 89,
+            "name": "Baseball Glove",
+            "price": 49.99,
+            "category": "Sports",
+            "description": "A comfortable baseball glove with durable leather and secure fit.",
+            "imageURL": "https://picsum.photos/350/350?random=89"
+        },
+        {
+            "id": 90,
+            "name": "Skateboard",
+            "price": 99.99,
+            "category": "Sports",
+            "description": "A sturdy skateboard with smooth wheels and durable deck.",
+            "imageURL": "https://picsum.photos/350/350?random=90"
+        },
+        {
+            "id": 91,
+            "name": "Snowboard",
+            "price": 399.99,
+            "category": "Sports",
+            "description": "A high-performance snowboard with advanced design and adjustable bindings.",
+            "imageURL": "https://picsum.photos/350/350?random=91"
+        },
+        {
+            "id": 92,
+            "name": "Ski Poles",
+            "price": 59.99,
+            "category": "Sports",
+            "description": "Adjustable ski poles with ergonomic grips and durable construction.",
+            "imageURL": "https://picsum.photos/350/350?random=92"
+        },
+        {
+            "id": 93,
+            "name": "Fishing Rod",
+            "price": 79.99,
+            "category": "Outdoor",
+            "description": "A lightweight fishing rod with adjustable reel and comfortable handle.",
+            "imageURL": "https://picsum.photos/350/350?random=93"
+        },
+        {
+            "id": 94,
+            "name": "Camp Chair",
+            "price": 49.99,
+            "category": "Outdoor",
+            "description": "A portable camp chair with cup holder and durable fabric.",
+            "imageURL": "https://picsum.photos/350/350?random=94"
+        },
+        {
+            "id": 95,
+            "name": "Binoculars",
+            "price": 119.99,
+            "category": "Outdoor",
+            "description": "High-quality binoculars with adjustable zoom and clear optics.",
+            "imageURL": "https://picsum.photos/350/350?random=95"
+        },
+        {
+            "id": 96,
+            "name": "Rope Ladder",
+            "price": 39.99,
+            "category": "Outdoor",
+            "description": "A sturdy rope ladder with secure rungs and durable material.",
+            "imageURL": "https://picsum.photos/350/350?random=96"
+        },
+        {
+            "id": 97,
+            "name": "Camping Chair",
+            "price": 29.99,
+            "category": "Outdoor",
+            "description": "A comfortable camping chair with lightweight frame and carry bag.",
+            "imageURL": "https://picsum.photos/350/350?random=97"
+        },
+        {
+            "id": 98,
+            "name": "Sunglasses",
+            "price": 19.99,
+            "category": "Outdoor",
+            "description": "Stylish sunglasses with UV protection and durable frame.",
+            "imageURL": "https://picsum.photos/350/350?random=98"
+        },
+        {
+            "id": 99,
+            "name": "Fishing Tackle Box",
+            "price": 39.99,
+            "category": "Outdoor",
+            "description": "A spacious tackle box with multiple compartments and durable handle.",
+            "imageURL": "https://picsum.photos/350/350?random=99"
+        },
+        {
+            "id": 100,
+            "name": "Fishing Waders",
+            "price": 129.99,
+            "category": "Outdoor",
+            "description": "Waterproof fishing waders"
+        }
+    ]
+}
